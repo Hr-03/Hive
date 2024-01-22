@@ -1,0 +1,77 @@
+.subSchedBtn{
+    background-color: #F1B947;
+    color: black;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.form-label{
+    white-space: nowrap;
+}
+
+.schedfr{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.palletCountT{
+    font-size: 20px;
+}
+
+.palletCount{
+    background-color: #282A29;
+    color: #F1B947;
+    border-radius: 7px !important;
+    font-weight: bold;
+}
+
+.schedTrack{
+    font-size: 22px;
+    font-weight: 500;
+    color: #F1B947;
+}
+
+.pplan{
+    max-height: 620px;
+    overflow-y: scroll !important;
+}
+
+.pplan::-webkit-scrollbar{
+    width: 5px !important;
+}
+
+.bs-stepper-circle {
+background-color: transparent !important;
+border: 1px solid !important;
+}
+
+
+.bs-stepper .line, .bs-stepper-line {
+    background-color: white !important;
+    width: 2px !important;
+    margin:0% 0% 0% 28% !important;
+}
+
+
+.subSchedBtn{
+    border: 1px solid #F1B947;
+    border-radius: 5px;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #F1B947;
+}
+
+.form-select,.form-control{
+    background-color: #6B6974;
+    color: white;
+    border-color: #6B6974;
+}
+
+.form-select:focus,.form-control:focus{
+    background-color: #6B6974;
+    color: white;
+    border-color: #6B6974;   
+}

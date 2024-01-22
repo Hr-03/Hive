@@ -1,0 +1,48 @@
+.taskMainCrd{
+    background-color: #282A29;
+border-radius: 15px;
+}
+
+
+/* .tasktab1{
+    border: 1px solid #F1B947;
+    border-right: none;
+    border-radius: 5px;
+}
+
+.tasktab2{
+    border: 1px solid #F1B947;
+    border-left: none;
+    border-radius: 5px;
+
+} */
+.tabwrap{
+    border: 1px solid #F1B947;
+    width: max-content;
+    border-radius: 5px;
+
+
+}
+.nav-pills .nav-link{
+    color: white;
+}
+
+.nav-pills .nav-link.active{
+    background-color: #F1B947 !important;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700;
+    border-top-right-radius: 0%;
+    border-bottom-right-radius: 0%;
+}
+
+.taskSchedBtn{
+    border: 1px solid #F1B947;
+    border-radius: 5px;
+    color: #F1B947;
+    background-color: transparent;
+}
+
+.taskSchedBtn:hover{
+    color: #F1B947;
+}

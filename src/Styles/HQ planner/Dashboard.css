@@ -1,0 +1,119 @@
+.dash-title{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.dashcrds{
+    background-color: #282A29;
+    border-radius: 15px;
+}
+
+.crd1heads{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.crd1spans{
+    font-size: 16px;
+    font-weight: 500;
+    color: #858686;
+}
+
+.crd1perc{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+
+.pb1{
+    background-color: #533D32;
+    border-radius: 0%;
+    height: 5px;
+}
+
+.pb2{
+    background-color: #2B4248;
+    border-radius: 0%;
+    height: 5px;
+}
+
+.pb3{
+    background-color: #463644;
+    border-radius: 0%;
+    height: 5px;
+}
+
+.pb1 .progress-bar{
+    background-color: #FF8B56;
+
+}
+
+.pb2 .progress-bar{
+    background-color: #35A1C3;
+
+}
+
+.pb3 .progress-bar{
+    background-color: #C068B0;
+
+}
+
+.gdashbar1{
+    width: 6px;
+max-height: 60px;
+background-color: #FF8B56;
+}
+
+.gdashbar2{
+    width: 6px;
+max-height: 60px;
+background-color: #35A1C3;
+}
+
+.bdg{
+    height: 24px;
+    width: 24px;
+    overflow: hidden;
+    border-radius: 30%;
+    font-size: 12px;
+}
+.gdashbar3,.gdashbar4{
+    width: 6px;
+max-height: 60px;
+background-color: #C068B0;
+}
+
+
+
+.gdashbar5{
+    width: 6px;
+    max-height: 60px;
+background-color: #31A767;
+}
+.gdashbar6{
+    width: 6px;
+    max-height: 60px;
+background-color: #F1B947;
+}
+
+.dashthead th{
+     color: white;
+}
+
+.dashthead{
+    background-color: #3A393E;
+    /* border-radius: 20% !important; */
+}
+
+.dashtbody td{
+    color: white;
+}
+
+.jobsp{
+    background-color: #645532;
+}
+
+
+.jobsp .progress-bar{
+    background-color: #F1B947;
+}

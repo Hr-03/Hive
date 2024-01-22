@@ -1,0 +1,70 @@
+.prnt{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+
+.sidebar{
+    /* position: absolute; */
+    /* display: block; */
+    /* left: 0; */
+    width: 20%;
+    height: 100%;
+    background-color: #282A29;
+    transition: all .2s ease;
+}
+
+.sidebar ul a,li{
+    list-style: none;
+    text-decoration: none ;
+    color: white;
+    line-height:65px;
+    cursor: pointer;
+}
+
+
+
+.nvbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* width: 10; */
+    min-height: 6%;
+    /* max-height: 6%; */
+    background-color: #282A29;
+    /* margin-left: 20%; */
+}
+
+
+section{
+    /* margin-left: 20%; */
+    /* width: 100%; */
+    /* transition: .5s ease; */
+    /* background-color: #282A29; */
+    width: 100%;
+    color: white;
+}
+
+/* .gears{} */
+
+.nosbar{
+    width: 0%;
+    /* height: 0%; */
+    /* display: none; */
+    visibility: hidden;
+    transition: width .2s ease;
+}
+
+.fullcont{
+    margin-left: 0%;
+}
+
+
+
+@media screen and (max-width:768px) {
+    
+
+    .sidebar{
+        width: 100%;
+    }
+}
